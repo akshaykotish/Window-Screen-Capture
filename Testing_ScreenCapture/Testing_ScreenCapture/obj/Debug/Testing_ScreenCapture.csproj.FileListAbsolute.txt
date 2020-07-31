@@ -1,0 +1,10 @@
+C:\Users\Akshay Kotish\source\repos\Testing_ScreenCapture\Testing_ScreenCapture\bin\Debug\Testing_ScreenCapture.exe.config
+C:\Users\Akshay Kotish\source\repos\Testing_ScreenCapture\Testing_ScreenCapture\bin\Debug\Testing_ScreenCapture.exe
+C:\Users\Akshay Kotish\source\repos\Testing_ScreenCapture\Testing_ScreenCapture\bin\Debug\Testing_ScreenCapture.pdb
+C:\Users\Akshay Kotish\source\repos\Testing_ScreenCapture\Testing_ScreenCapture\obj\Debug\Testing_ScreenCapture.csprojAssemblyReference.cache
+C:\Users\Akshay Kotish\source\repos\Testing_ScreenCapture\Testing_ScreenCapture\obj\Debug\Testing_ScreenCapture.Form1.resources
+C:\Users\Akshay Kotish\source\repos\Testing_ScreenCapture\Testing_ScreenCapture\obj\Debug\Testing_ScreenCapture.Properties.Resources.resources
+C:\Users\Akshay Kotish\source\repos\Testing_ScreenCapture\Testing_ScreenCapture\obj\Debug\Testing_ScreenCapture.csproj.GenerateResource.cache
+C:\Users\Akshay Kotish\source\repos\Testing_ScreenCapture\Testing_ScreenCapture\obj\Debug\Testing_ScreenCapture.csproj.CoreCompileInputs.cache
+C:\Users\Akshay Kotish\source\repos\Testing_ScreenCapture\Testing_ScreenCapture\obj\Debug\Testing_ScreenCapture.exe
+C:\Users\Akshay Kotish\source\repos\Testing_ScreenCapture\Testing_ScreenCapture\obj\Debug\Testing_ScreenCapture.pdb
